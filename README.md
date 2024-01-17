@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqTech&layout=compact&theme=neon" alt=FaiqTech />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqTech&layout=compact&theme=neon" alt=FaiqTech />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FaiqTech&show_icons=true&locale=en&theme=neon" alt="FaiqTech" /></p>
 
